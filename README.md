@@ -1,6 +1,6 @@
-# Emmanuel Oladoyin
+# Hello 👋🏽, i'm Emmanuel Oladoyin
 
-Mobile Developer & UX Designer
+Mobile Developer & User Experience Designer
 
 🌍 Lagos, Nigeria  
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
