@@ -24,7 +24,7 @@ Mobile Developer | UX Designer
 ## 👨‍💻 Experience
 
 ### Fatherland Technology (Jan 2024 – Present)  
-**Mobile Developer (Flutter)**
+**📱 Mobile Developer (Flutter)**
 
 - Developed the Fatherland Money mobile app with Flutter, focusing on clean navigation and animations.
 - Integrated Firebase for user authentication and real-time data syncing with 99.9% accuracy.
@@ -33,7 +33,7 @@ Mobile Developer | UX Designer
 - Ensured real-time transaction updates with 99.9% accuracy.
 
 ### FamesTech (July 2021 – April 2024)  
-**UX Designer**
+**🎨 UX Designer**
 
 - Designed wireframes, visual designs, and prototypes, increasing user engagement by 40%.
 - Conducted A/B testing on UI elements, improving conversion rates by 20%.
