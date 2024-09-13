@@ -4,9 +4,7 @@ Mobile Developer | UX Designer
 
 🌍 Lagos, Nigeria  
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | 
-  [GitHub](https://github.com/olumuyiwaa) | 
-	[Twitter](https://x.com/Iamdoyin_)
+🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | [GitHub](https://github.com/olumuyiwaa) | [Twitter](https://x.com/Iamdoyin_) | [Design Portfolio](https://emmanueloladoyin.framer.website)
 
 ---
 
