@@ -4,8 +4,9 @@ Mobile Developer | UX Designer
 
 🌍 Lagos, Nigeria  
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin)
-  [GitHub](https://github.com/olumuyiwaa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | 
+  [GitHub](https://github.com/olumuyiwaa) | 
+	[Twitter](https://x.com/Iamdoyin_)
 
 ---
 
@@ -48,4 +49,8 @@ Yaba College of Technology, December 2018
 
 ---
 
-🚀 Always looking for opportunities to contribute to innovative mobile and UX projects.
+## 📊 My GitHub Stats
+
+<a href="http://www.github.com/olumuyiwaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olumuyiwaa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## 🚀 Always looking for opportunities to contribute to innovative mobile and UX projects.
