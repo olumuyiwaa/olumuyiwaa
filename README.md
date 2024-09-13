@@ -57,4 +57,4 @@ Yaba College of Technology, December 2018
 
 <a href="http://www.github.com/olumuyiwaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olumuyiwaa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 🚀 Always looking for opportunities to contribute to innovative mobile and UX projects.
+## 🚀 Always looking for opportunities to contribute to innovative Mobile development and UX design projects.
