@@ -1,8 +1,9 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>, i'm Emmanuel Oladoyin
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>, i'm Emmanuel Oladoyin 
 ### Mobile Developer & User Experience Designer
-<img src="https://komarev.com/ghpvc/?username=aolumuyiwaa&label=Profile%20views&color=0e75b6&style=flat" alt="olumuyiwaa" />
-🌍 Lagos, Nigeria
-📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)
+
+🌍 Lagos, Nigeria  
+📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
+
 <p align="left"> <a href="https://www.github.com/olumuyiwaa" target="https://www.github.com/olumuyiwaa" rel="noreferrer"><img src="https://img.shields.io/github/followers/olumuyiwaa?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://x.com/Iamdoyin_" target="https://x.com/Iamdoyin_" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Iamdoyin_?style=flat&logo=x&color=0e75b6&labelColor=grey" /></a> <a href="https://www.linkedin.com/in/emmanueloladoyin" target="https://www.linkedin.com/in/emmanueloladoyin" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat&color=0e75b6&labelColor=grey" /></a></p>
 
 ---
