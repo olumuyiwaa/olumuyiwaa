@@ -1,5 +1,5 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>, i'm Emmanuel Oladoyin 
-### Mobile Developer & User Experience Designer
+### Mobile Developer
 
 🌍 Lagos, Nigeria  
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
