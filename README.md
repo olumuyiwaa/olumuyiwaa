@@ -9,7 +9,7 @@
 
 ## 🛠 Relevant Skills
 
-- **Mobile Development**: Flutter, Dart, Android, iOS
+- **Mobile Development**: Flutter, Dart, Cross-platform (Android & iOS)
 - **Tools & Technologies**: Xcode, Android Studio, VS Code, Postman
 - **UI/UX Design**: Figma, Adobe XD, Sketch
 - **Backend Integration**: Firebase, REST APIs, JSON, SQLite
