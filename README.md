@@ -12,7 +12,6 @@
 - **Mobile Development**: Flutter, Dart, Android, iOS
 - **Tools & Technologies**: Xcode, Android Studio, VS Code, Postman
 - **UI/UX Design**: Figma, Adobe XD, Sketch
-- **Version Control**: Git, GitHub
 - **Backend Integration**: Firebase, REST APIs, JSON, SQLite
 - **Web Technologies**: HTML, CSS, JavaScript
 
