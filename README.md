@@ -10,10 +10,10 @@
 ## 🛠 Relevant Skills
 
 - **Mobile Development**: Flutter, Dart, Cross-platform (Android & iOS)
-- **Tools & Technologies**: Xcode, Android Studio, VS Code, Postman
+- **Tools & Technologies**: Xcode,IntelliJ IDEA, Android Studio, VS Code, Postman
 - **UI/UX Design**: Figma, Adobe XD, Sketch
-- **Backend Integration**: Firebase, REST APIs, JSON, SQLite
-- **Web Technologies**: HTML, CSS, JavaScript
+- **Backend Technologies**: NestJS, JSON, SQLite
+- **Web Technologies**: Typescript
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olumuyiwaa&show_icons=true&locale=en&theme=dark&bg_color=0d1117&border_color=292e35&layout=compact&langs_count=10" alt="olumuyiwaa" /></p>
