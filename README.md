@@ -5,7 +5,7 @@
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | [Portfolio](https://emmanueloladoyin.com)
 🛠 Building: [ShopCera](https://shopcera.com)
-
+ 
 ---
 
 ## 🛠 Relevant Skills
