@@ -3,7 +3,7 @@
 
 🌍 Lagos, Nigeria  
 📧 [oladoyinemmanuel@gmail.com](mailto:oladoyinemmanuel@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | [GitHub](https://github.com/olumuyiwaa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/emmanueloladoyin) | [Portfolio](https://emmanueloladoyin.com)  
 
 ---
 
